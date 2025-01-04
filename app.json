@@ -23,6 +23,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0d6cd23a-640f-4598-a907-ebace6ef03b2"
+      }
+    },
+    "owner": "gfbarron",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/0d6cd23a-640f-4598-a907-ebace6ef03b2"
     }
   }
 }
